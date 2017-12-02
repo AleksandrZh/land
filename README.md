@@ -79,6 +79,10 @@ npm install rimraf --save-dev
 
 npm install gulp-rename --save-dev
 
+npm install --save-dev gulp-autoprefixer
+
+
+
 ----------------------------------------------
 Создание новой ветки github
 git branch lan1
