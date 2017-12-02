@@ -79,7 +79,20 @@ npm install rimraf --save-dev
 
 npm install gulp-rename --save-dev
 
+----------------------------------------------
+Создание новой ветки github
+git branch lan1
+	
+git branch посмотреть ветки
+
+git checkout lan1
+
+git status
+
+git add
+
+git commit -m "Finish lesson1"
+
+git push origin lan1
 
 
-	
-	
