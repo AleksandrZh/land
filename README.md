@@ -102,3 +102,6 @@ git commit -m "Finish lesson1"
 git push origin lan1
 
 
+-----------------------------------------------------
+Начало верстки, добавление
+npm install --save font-awesome normalize.scss

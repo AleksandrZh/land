@@ -4,7 +4,9 @@
   "description": "This is landing",
   "main": "index.js",
   "dependencies": {
-    "gulp": "^4.0.0-alpha.2"
+    "font-awesome": "^4.7.0",
+    "gulp": "^4.0.0-alpha.2",
+    "normalize.scss": "^0.1.0"
   },
   "devDependencies": {
     "browser-sync": "^2.18.13",
@@ -18,7 +20,8 @@
     "rimraf": "^2.6.2"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "gulp"
   },
   "repository": {
     "type": "git",

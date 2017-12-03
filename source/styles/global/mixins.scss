@@ -1,0 +1,20 @@
+@mixin centerer-xy() {
+	position: absolute;
+	Top: 50%;
+	Left: 50%;
+	Transform: translate(-50%, -50%);   
+}
+
+@mixin centerer-x() {
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+  }
+
+@mixin centerer-y() {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+  }
+  
+  
