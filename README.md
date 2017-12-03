@@ -81,6 +81,8 @@ npm install gulp-rename --save-dev
 
 npm install --save-dev gulp-autoprefixer
 
+npm install gulp-sourcemaps
+
 
 
 ----------------------------------------------
